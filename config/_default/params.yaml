@@ -7,14 +7,14 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: native
 font_size: L
 
 # SEO
 
 site_type: LocalBusiness
 local_business_type: 'ProfessionalService'
-org_name: 'Beebifotograaf Viktoria Iljin'
+org_name: 'Beebistuudio'
 description: 'Beebiootuse ja beebifotograaf Tallinnas - Viktoria Iljin'
 twitter: 'lastefoto'
 
