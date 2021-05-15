@@ -11,7 +11,7 @@ header:
   caption: ""
   image: ""
 ---
-These Privacy Terms apply when using the web environment https://www.beebifoto.eu. Your use of the web environment is considered your acceptance of these Privacy Policy.
+These Privacy Terms apply when using the web environment https://www.beebistuudio.eu. Your use of the web environment is considered your acceptance of these Privacy Policy.
 
 1. The Privacy Policy sets out the rules for the collection, storage and processing of personal data when using the services of Boonus Meedia OÜ (hereinafter the Company).
 

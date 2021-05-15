@@ -11,7 +11,7 @@ header:
   caption: ""
   image: ""
 ---
-Käesolevad Privaatsustingimused kohalduvad, kui Te kasutate veebikeskkonda https://www.beebifoto.eu Veebikeskkonna kasutamine loetakse Teie nõusolekuks käesolevate Privaatsustingimustega.
+Käesolevad Privaatsustingimused kohalduvad, kui Te kasutate veebikeskkonda https://www.beebistuudio.eu Veebikeskkonna kasutamine loetakse Teie nõusolekuks käesolevate Privaatsustingimustega.
 
 1. Privaatsuspoliitika sätestab reeglid isikuandmete kogumiseks, säilitamiseks ja töötlemiseks Boonus Meedia OÜ (edaspidi Ettevõte) teenuste kasutamisel.
 
