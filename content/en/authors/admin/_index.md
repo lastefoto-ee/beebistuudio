@@ -6,7 +6,7 @@ title: Viktoria Iljin
 superuser: true
 
 # Role/position/tagline
-role: Pregnancy and newborn photographer
+role: Pregnancy photographer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.lastefoto.ee/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Pregnancy and newborn photographer in Tallinn, Estonia.
+bio: Pregnancy photographer in Tallinn, Estonia.
 
 # Interests to show in About widget
 interests:
@@ -28,18 +28,6 @@ education:
   - course: Pregnancy photosession in the style of Vogue
     institution: bunaeva.com
     year: 2021  
-  - course: NewbornForum workshops
-    institution: newbornforum.ru
-    year: 2020
-  - course: Photography of a newborn workshop
-    institution: annapotemkina.com
-    year: 2019
-  - course: Learn Newborn workshops
-    institution: mynewbornbeauty.com
-    year: 2018
-  - course: Christmas newborn photography
-    institution: ok-academy.ru
-    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

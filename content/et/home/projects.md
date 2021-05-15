@@ -26,19 +26,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: kõik
-    tag: "*"  
-  - name: beanbagil
-    tag: beanbagil
-  - name: mähitud 
-    tag: mähitud
-  - name: rekvisiidis
-    tag: rekvisiidis
-  - name: pere
-    tag: pere  
-  - name: kaksikud
-    tag: kaksikud
-  - name: beebiootus
-    tag: beebiootus
+    tag: "*"   
   - name: siluett
     tag: siluett  
 

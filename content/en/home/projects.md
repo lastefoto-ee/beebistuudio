@@ -27,18 +27,6 @@ content:
   filter_button:
   - name: all
     tag: "*"
-  - name: beanbag
-    tag: beanbag
-  - name: wrapped 
-    tag: wrapped
-  - name: props
-    tag: props
-  - name: twins
-    tag: twins
-  - name: family
-    tag: family
-  - name: pregnancy
-    tag: pregnancy
   - name: silhouette
     tag: silhouette
 

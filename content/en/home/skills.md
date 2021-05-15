@@ -28,18 +28,6 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: PREGNANCY L 345€
-- description: photo session of a newborn on a posing pillow (beanbag), 7 digital photos, shooting for 2 hours in the studio, printed photos 10x15cm, USB drive with all retouched photos in individually designed packaging, retouching of additional photos 10 € / photo
-  icon: camera-retro
-  icon_pack: fas
-  name: NEWBORN S 160€
-- description: photo session of a newborn on a posing pillow (beanbag) and in the props, 15 digital photos, family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, USB drive with all retouched photos in individually designed packaging, retouching of additional photos 9 € / photo
-  icon: camera-retro
-  icon_pack: fas
-  name: NEWBORN M 250€
-- description: photo session of a newborn on a posing pillow (beanbag) and in the props, 25 digital photos, family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, photobook 20 x 20 cm, USB drive with all retouched photos in individually designed packaging, retouching of additional photos 8 € / photo
-  icon: camera-retro
-  icon_pack: fas
-  name: NEWBORN L 385€
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

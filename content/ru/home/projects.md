@@ -27,18 +27,6 @@ content:
   filter_button:
   - name: все
     tag: "*"
-  - name: бинбег
-    tag: бинбег
-  - name: обмотка 
-    tag: обмотка
-  - name: реквизит
-    tag: реквизит
-  - name: близнецы
-    tag: близнецы
-  - name: семья
-    tag: семья
-  - name: беременность
-    tag: беременность
   - name: силуэт
     tag: силуэт
 
