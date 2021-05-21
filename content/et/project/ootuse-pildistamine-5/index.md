@@ -3,7 +3,6 @@ title: Ootuse pildistamine
 summary: Ootuse pildistamine Tallinnas
 tags:
 - lapseootus
-- siluett
 date: "2020-10-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

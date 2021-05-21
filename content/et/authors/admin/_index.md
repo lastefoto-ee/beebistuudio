@@ -6,7 +6,7 @@ title: Viktoria Iljin
 superuser: true
 
 # Role/position/tagline
-role: Beebiootuse ja beebifotograaf
+role: Lapseootuse fotograaf
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.lastefoto.ee/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Beebiootuse ja beebifotograaf Tallinnas. Loome koos Teie pere ilusat ja ainulaadset ajalugu.
+bio: Lapseootuse fotograaf Tallinnas. Loome koos Teie pere ilusat ja ainulaadset ajalugu.
 
 # Interests to show in About widget
 interests:
@@ -31,18 +31,6 @@ education:
   - course: Koolitused rahvusvahelise newborn foorumis
     institution: newbornforum.ru
     year: 2020
-  - course: Vastsündinu ja väikelaste pildistamine
-    institution: annapotemkina.com
-    year: 2019
-  - course: Learn Newborn
-    institution: mynewbornbeauty.com
-    year: 2018
-  - course: Christmas newborn photography
-    institution: ok-academy.ru
-    year: 2018
-  - course: Newborn photography
-    institution: ok-academy.ru/newbornphoto
-    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -76,17 +64,13 @@ email: "viktoria.iljin@gmail.com"
 highlight_name: false
 ---
 
-Tere! Olen Viktoria - beebiootuse ja beebifotograaf Tallinnas, Eestis. 
+Tere! Olen Viktoria - lapseootuse fotograaf Tallinnas, Eestis. 
 
 Koos saaksime luua teie pere ilusa ja ainulaadse ajaloo. 
-
-Lapsed on nii loomulikud, siirad ja emotsionaalsed ning kasvavad liiga kiiresti. 
 
 Iga fotosessioon on minu jaoks ainulaadne kogemus. 
 
 Teie pere emotsioonide, vaimu ja soojuse jäädvustamiseks veedan teiega nii palju aega, kui vaja ilusate piltide saamiseks. 
-
-Parima tulemuse saamiseks kohanen delikaatselt beebi meeleolu peale .  
 
 Hea meelega avaldaksin teie loal ka teie fotosessioonipildid minu portfoolios. 
 
