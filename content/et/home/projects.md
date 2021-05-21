@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Portfoolio
-subtitle: 'ajatud ja kõige ilusamad beebiootuse ja beebi pildid'
+subtitle: 'kõige ilusamad lapseootuse pildid'
 
 content:
   # Page type to display. E.g. project.
@@ -29,6 +29,8 @@ content:
     tag: "*"   
   - name: siluett
     tag: siluett  
+  - name: pere
+    tag: pere  
 
 
 design:
