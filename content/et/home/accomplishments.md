@@ -28,17 +28,17 @@ item:
   date_start: "2021-04-05"
   description: 'Suuna "Beebiootuse fotosessioon Vogue stiilis" asutaja veebikursus - Sasha Bunaeva'
   organization: Sasha Bunaeva 
-  organization_url: "https://bunaeva.com"
+  organization_url: "https://www.lastefoto.ee/sasha-bunaeva/"
   title: 'Online koolitus "Beebiootuse fotosessioon Vogue stiilis"'
-  url: "https://bunaeva.com"
+  url: "https://www.lastefoto.ee/sasha-bunaeva/"
 - certificate_url: "https://www.lastefoto.ee/newborn-forum-participation.jpg"
   date_end: ""
   date_start: "2020-02-07"
-  description: "Osalemine Newborn Foorumis - Moskvas toimunud kõige aktuaalsem lapseootuse ja vastsündinu fotograafia üritus"
+  description: "Osalemine Newborn Foorumis - Moskvas toimunud kõige aktuaalsem vastsündinu fotograafia üritus"
   organization: Newborn Forum 
-  organization_url: "https://www.instagram.com/newbornforum/"
+  organization_url: "https://www.lastefoto.ee/newborn-forum/"
   title: Igaaastase rahvusvahelise newborn foorumi külastus
-  url: ""
+  url: "https://www.lastefoto.ee/newborn-forum/"
 
 design:
   columns: '2' 
