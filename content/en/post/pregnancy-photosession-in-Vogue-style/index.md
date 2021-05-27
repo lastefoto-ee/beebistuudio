@@ -8,8 +8,8 @@ authors: ["admin"]
 tags: ["pregnancy photosession", "pregnancy", "Vogue"]
 categories: ["pregnancy"]
 date: 2021-02-23T17:45:53+02:00
-lastmod: 2021-02-23T17:45:53+02:00
-featured: false
+lastmod: 2021-05-27T17:45:53+02:00
+featured: true
 draft: false
 
 # Featured image

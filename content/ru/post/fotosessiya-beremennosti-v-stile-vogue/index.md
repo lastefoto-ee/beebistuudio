@@ -9,7 +9,7 @@ tags: ["фотосессия беременности", "беременност�
 categories: ["беременность"]
 date: 2021-02-23T17:45:53+02:00
 lastmod: 2021-05-23T17:45:53+02:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
