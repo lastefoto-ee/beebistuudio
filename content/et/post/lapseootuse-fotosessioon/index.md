@@ -1,13 +1,13 @@
 ---
 title: Lapseootuse fotosessioon Vogue stiilis
-subtitle: Stiilne lapseootuse fotosessioon
+subtitle: Stiilne lapseootuse sessioon
 
 # Summary for listings and search engines
-summary: Stiilne lapseootuse fotosessioon
+summary: Stiilne lapseootuse sessioon
 
 # Link this post with a project
 projects: 
-  - beebiootus
+  - lapseootus
 
 # Date published
 date: "2021-05-27T00:00:00Z"
@@ -38,26 +38,26 @@ tags:
   - siluetid
 
 categories:
-- beebiootus
+- lapseootus
 
 ---
-On olemas fotosessioonid, mis inspireerivad ja see on üks neist.
+On olemas lapseootuse fotosessioonid, mis inspireerivad ja see on üks neist.
 
-{{< figure src="./lapseootuse-fotosessioon-1.jpg" title="Lapseootusefotosessioon Tallinnas" >}}
+{{< figure src="./lapseootuse-fotosessioon-1.jpg" title="Lapseootuse fotosessioon Tallinnas" >}}
 
 Just Tatjana lapseootuse pildistamine inspireeris mind näitama tulevast ema mitmest küljest, mitmes seisundis. Armas, elegantne, julge, unistav ..
 
-{{< figure src="./lapseootuse-fotosessioon-2.jpg" title="Lapseootusefotosessioon" >}}
+{{< figure src="./lapseootuse-fotosessioon-2.jpg" title="Lapseootuse fotosessioon" >}}
 
 Tatiana kirjutas mulle pärast lapseootuse fotosessiooni:
 
 > Nägin end uuesti sellisena, nagu olin enne .. ilus ja armas. Isegi kõhuga 😍
 
-{{< figure src="./lapseootuse-fotosessioon-3.jpg" title="Lapseootusefotosessioon fotosessioon Vogue stiilis" >}}
+{{< figure src="./lapseootuse-fotosessioon-3.jpg" title="Lapseootusefotosessioon Vogue stiilis" >}}
 
 Mul on hea meel, et saan teile anda mitte ainult "fotosid", vaid ka tõelise MÄLU ühest teie elu kõige armsamast perioodist ja näidata selle ilu. ♥ ️
 
-{{< figure src="./lapseootuse-fotosessioon-4.jpg" title="Lapseootusefotosessioon stuudios" >}}
+{{< figure src="./lapseootuse-fotosessioon-4.jpg" title="Ootuse sessioon stuudios" >}}
 
 Pidage meeles, et olete ilus. Väga! Ja hoidke seda mälestust kindlasti ka piltide peal.
 
