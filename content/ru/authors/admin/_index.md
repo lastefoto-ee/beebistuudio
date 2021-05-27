@@ -25,24 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Newborn Retreat
+    institution: themilkyway.ca
+    year: 2021  
   - course: Фотосессия беременности в стиле Vogue
     institution: bunaeva.com
     year: 2021  
   - course: Мастер-классы форума фотографов новорожденных
     institution: newbornforum.ru
     year: 2020
-  - course: Фотография новорожденных и детей
-    institution: annapotemkina.com
-    year: 2019
-  - course: Learn Newborn
-    institution: mynewbornbeauty.com
-    year: 2018
-  - course: Рожденственская фотография новорожденных
-    institution: ok-academy.ru
-    year: 2018
-  - course: Фотография новорожденных
-    institution: ok-academy.ru/newbornphoto
-    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

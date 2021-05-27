@@ -28,6 +28,12 @@ education:
   - course: Pregnancy photosession in the style of Vogue
     institution: bunaeva.com
     year: 2021  
+  - course: Newborn Retreat
+    institution: themilkyway.ca
+    year: 2021
+  - course: NewbornForum workshops
+    institution: newbornforum.ru
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

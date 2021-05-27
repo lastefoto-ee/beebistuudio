@@ -23,6 +23,14 @@ date_format: 2006-01-01
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-01-31"
+  description: 'Professional photographers shared their knowledge of pregnancy and newborn photography'
+  organization: The Milky Way
+  organization_url: "https://www.lastefoto.ee/en/newborn-retreat/"
+  title: 'Online course of foreign top photographers on photography of pregnancy and newborns'
+  url: "https://www.lastefoto.ee/en/newborn-retreat/"
 - certificate_url: "https://www.lastefoto.ee/certificate-Bunaeva-Vogue.jpg"
   date_end: ""
   date_start: "2021-04-05"

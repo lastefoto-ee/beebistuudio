@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Newborn Retreat
+    institution: themilkyway.ca
+    year: 2021  
   - course: Pregnancy photosession in the style of Vogue
     institution: bunaeva.com
     year: 2021  
