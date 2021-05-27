@@ -1,19 +1,19 @@
 ---
 title: Fotopäev "Siluetid"
-subtitle: Beebiootuse pildistamise fotopäev
+subtitle: Lapseootuse pildistamise fotopäev
 
 # Summary for listings and search engines
-summary: Beebiootuse pildistamise fotopäev toimub 28. mail 2021 Tallinnas
+summary: Lapseootuse pildistamise fotopäev toimub 28. mail 2021 Tallinnas
 
 # Link this post with a project
-projects: [beebiootus]
+projects: [lapseootus]
 
 
 # Date published
 date: "2021-05-04T00:00:00Z"
 
 # Date updated
-lastmod: "2021-05-04T00:00:00Z"
+lastmod: "2021-05-27T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -34,52 +34,52 @@ authors:
 
 tags:
   - beebiootus
-  - beebiootuse fotosessioon
-  - beebiootuse fotograaf
+  - lapseootuse fotosessioon
+  - lapseootuse fotograaf
   - lapseootus
   - Vogue
   - fotopäev
 
 categories:
-  - beebiootus
+  - lapseootus
 
 gallery_item:
 - album: silhouette
-  image: beebiootuse-sessioon-11.jpg
-  caption: Beebiootuse fotosessioon stuudios
+  image: lapseootuse-sessioon-11.jpg
+  caption: Lapseootuse fotosessioon stuudios
 - album: silhouette
-  image: beebiootuse-sessioon-12.jpg
-  caption: Beebiootuse fotosessioon Tallinnas
+  image: lapseootuse-sessioon-12.jpg
+  caption: Lapseootuse fotosessioon Tallinnas
 - album: silhouette
-  image: beebiootuse-sessioon-13.jpg
-  caption: Beebiootusefotosessioon Tallinna stuudios
+  image: lapseootuse-sessioon-13.jpg
+  caption: Lapseootusefotosessioon Tallinna stuudios
 - album: silhouette
-  image: beebiootuse-sessioon-14.jpg
-  caption: Beebiootuse fotosessioon Vogue stiilis
-- album: siluetid
-  image: beebiootuse-fotosessioon-10.jpg
+  image: lapseootuse-sessioon-14.jpg
   caption: Lapseootuse fotosessioon Vogue stiilis
 - album: siluetid
-  image: beebiootuse-fotosessioon-5.jpg
+  image: lapseootuse-fotosessioon-10.jpg
   caption: Lapseootuse fotosessioon Vogue stiilis
 - album: siluetid
-  image: beebiootuse-fotosessioon-4.jpg
+  image: lapseootuse-fotosessioon-5.jpg
+  caption: Lapseootuse fotosessioon Vogue stiilis
+- album: siluetid
+  image: lapseootuse-fotosessioon-4.jpg
   caption: Lapseootuse fotosessioon Tallinnas
 - album: siluetid
-  image: beebiootuse-fotosessioon-3.jpg
-  caption: Beebiootuse pildistamine 
+  image: lapseootuse-fotosessioon-3.jpg
+  caption: Lapseootuse pildistamine 
 - album: siluetid
-  image: beebiootuse-fotosessioon-7.jpg
-  caption: Beebiootuse fotosessioon Tallinnas
+  image: lapseootuse-fotosessioon-7.jpg
+  caption: Ootuse fotosessioon Tallinnas
 - album: siluetid
-  image: beebiootuse-fotosessioon-6.jpg
-  caption: Beebiootuse pildistamine Vogue stiilis
+  image: lapseootuse-fotosessioon-6.jpg
+  caption: Ootuse pildistamine Vogue stiilis
 - album: siluetid
-  image: beebiootuse-fotosessioon-8.jpg
-  caption: Beebiootuse fotosessioon Tallinnas
+  image: lapseootuse-fotosessioon-8.jpg
+  caption: Lapseootuse fotosessioon Tallinnas
 - album: siluetid
-  image: beebiootuse-fotosessioon-9.jpg
-  caption: Beebiootuse pildistamine stuudios Tallinnas
+  image: lapseootuse-fotosessioon-9.jpg
+  caption: Lapseootuse pildistamine stuudios Tallinnas
 ---
 {{< cta cta_text="Registreeru fotopäevale" cta_link="/#contact" cta_new_tab="true" cta_alt_text="või saa lisateavet vastsündinud fotosessiooni kohta" cta_alt_link="/post/mida-kardavad-varsked-vanemad/" cta_alt_new_tab="false" >}}
 
@@ -98,7 +98,7 @@ Meigi ja lokkide eest tasutakse eraldi, hinnaks 30 €.
  
 _Sessiooni kindlustamiseks tuleb tasuda broneeringutasu 20€, mis ei kuulu tagastamisele, kui fotosessioon tühistatakse vähem kui 48 tundi enne fotopäeva algust._ 
  
-{{< cta cta_text="Jäädvusta beebiootus erilisel viisil" cta_link="/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Jäädvusta lapseootus erilisel viisil" cta_link="/#contact" cta_new_tab="true" >}}
 
 ## Fotosessiooni hind sisaldab:
 - pildistamine 30 minuti jooksul 
@@ -136,4 +136,4 @@ _Üldiselt ärge mõelge kellaajale, vaid mõelge meeleolule ja nautige toimuvat
 
 {{< gallery album="silhouette" >}}
 
-{{< cta cta_text="Registreeru beebiootuse fotopäevale" cta_link="/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Registreeru lapseootuse fotopäevale" cta_link="/#contact" cta_new_tab="true" >}}
