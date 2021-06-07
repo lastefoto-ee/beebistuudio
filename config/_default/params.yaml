@@ -139,12 +139,13 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: 'G-XG7MZBP8JT'
+  google_analytics: 'G-BX4XT35JXZ'
   google_tag_manager: ''
-  google_site_verification: 'U1jkS28WgsK26pwWUAAyn6MjO-D8Vpjh7mr37zePOnM'
+  google_site_verification: 'njvoFf5FHdJ5yBcrzdRiJ0Ixvep_q0z-rOXRJKy0uao'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
+  netlify_cms: false
   branch: master
   local_backend: false
 icon:
