@@ -44,16 +44,16 @@ categories:
   - lapseootus
 
 gallery_item:
-- album: silhouette
+- album: siluett
   image: lapseootuse-sessioon-11.jpg
   caption: Lapseootuse fotosessioon stuudios
-- album: silhouette
+- album: siluett
   image: lapseootuse-sessioon-12.jpg
   caption: Lapseootuse fotosessioon Tallinnas
-- album: silhouette
+- album: siluett
   image: lapseootuse-sessioon-13.jpg
   caption: Lapseootusefotosessioon Tallinna stuudios
-- album: silhouette
+- album: siluett
   image: lapseootuse-sessioon-14.jpg
   caption: Lapseootuse fotosessioon Vogue stiilis
 - album: siluetid
@@ -110,6 +110,7 @@ _Sessiooni kindlustamiseks tuleb tasuda broneeringutasu 20€, mis ei kuulu taga
 ## Mis on Siluet-pilt?
 
 Palun vaadake näiteid. Need on siluetid:
+
 {{< gallery album="siluetid" >}}
 
 ## Mida fotosessioonile selga panna?
@@ -134,6 +135,6 @@ Kui kaadris olevad inimesed on positiivsed ja on valmis fotosessioonist aktiivse
 
 _Üldiselt ärge mõelge kellaajale, vaid mõelge meeleolule ja nautige toimuvat._
 
-{{< gallery album="silhouette" >}}
+{{< gallery album="siluett" >}}
 
 {{< cta cta_text="Registreeru lapseootuse fotopäevale" cta_link="/#contact" cta_new_tab="true" >}}

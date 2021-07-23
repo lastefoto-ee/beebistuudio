@@ -108,6 +108,7 @@ _Recording on a prepaid basis of 20€. If the photosession is canceled less tha
 ## What is silhouette photography?
 
 Please see examples. These are the silhouettes:
+
 {{< gallery album="silhouettes" >}}
 
 {{< cta cta_text="Book time for a photo day" cta_link="/en/#contact" cta_new_tab="true" >}}
