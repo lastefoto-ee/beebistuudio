@@ -29,6 +29,8 @@ content:
     tag: "*"
   - name: силуэт
     tag: силуэт
+  - name: семья
+    tag: семья
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
