@@ -12,7 +12,7 @@ image:
   caption: Photo by Viktoria Iljin
   focal_point: Smart
 
-links:[]
+links: []
 url_code: ""
 url_pdf: ""
 url_slides: ""
