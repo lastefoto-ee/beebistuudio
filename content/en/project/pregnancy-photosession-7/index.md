@@ -1,6 +1,6 @@
 ---
-title: Pregnancy photosession
-summary: Pregnancy photosession in Tallinn
+title: Pregnancy photo shoot
+summary: Pregnancy photo shoot in Tallinn
 tags:
 - pregnancy
 - silhouette

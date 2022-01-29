@@ -1,6 +1,6 @@
 ---
-title: Pregnancy photosession
-summary: Pregnancy photosession in Vogue style
+title: Pregnancy photo shoot
+summary: Pregnancy photo shoot in Vogue style
 tags:
 - pregnancy
 date: "2021-10-19T10:40:53+03:00"

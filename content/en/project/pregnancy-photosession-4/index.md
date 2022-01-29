@@ -1,6 +1,6 @@
 ---
-title: Pregnancy photosession
-summary: Pregnancy photosession in the studio
+title: Pregnancy photo shoot
+summary: Pregnancy photo shoot in the studio
 tags:
 - pregnancy
 - silhouette
