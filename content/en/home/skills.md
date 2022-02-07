@@ -28,18 +28,6 @@ feature:
   icon: kiss-wink-heart
   icon_pack: fas
   name: PREGNANCY L 345€
-- description: photo session of a newborn on a posing pillow (beanbag), 7 digital photos, shooting for 2 hours in the studio, printed photos 10x15cm, USB drive with all retouched photos in individually designed packaging, retouching of additional photos 10 € / photo
-  icon: baby
-  icon_pack: fas
-  name: NEWBORN S 185€
-- description: photo session of a newborn on a posing pillow (beanbag) and in the props, 17 digital photos, family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, USB drive with all retouched photos in individually designed packaging, retouching of additional photos 9 € / photo
-  icon: child
-  icon_pack: fas
-  name: NEWBORN M 290€
-- description: photo session of a newborn on a posing pillow (beanbag) and in the props, 30 digital photos, family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, photobook 20 x 20 cm, USB drive with all retouched photos in individually designed packaging, retouching of additional photos 8 € / photo
-  icon: birthday-cake
-  icon_pack: fas
-  name: NEWBORN L 410€
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

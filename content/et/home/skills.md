@@ -28,18 +28,6 @@ feature:
   icon: kiss-wink-heart
   icon_pack: fas
   name: BEEBIOOTUS M 345€
-- description: beebi pildistamine poseerimispadja peal, 7 töödeldud digi- ja paberpilti 10x15cm, pildistamine stuudios 2 tunni jooksul, retušeeritud piltidest koostatud veebigalerii, mida soovi korral saate ka jagada, kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk, lisapildi töötlus 10€ / pilt.
-  icon: baby
-  icon_pack: fas
-  name: BEEBI S 185€
-- description: beebi pildistamine poseerimispadja peal ja rekvisiidis, 17 töödeldud digi- ja paberpilti 10x15cm, fotod pereliikmetega ning ühine perepilt, pildistamine stuudios 2-3 tunni jooksul, retušeeritud piltidest koostatud veebigalerii, kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk, lisapildi töötlus 9€ / pilt.
-  icon: child
-  icon_pack: fas
-  name: BEEBI M 290€
-- description: beebi pildistamine poseerimispadja peal ja rekvisiidis, 30 töödeldud digi- ja paberpilti 10x15cm, fotod pereliikmetega ning ühine perepilt, pildistamine stuudios 2-3 tunni jooksul, retušeeritud piltidest koostatud veebigalerii, fotoraamat 20 х 20 cm, kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk, lisapildi töötlus 8€ / pilt.
-  icon: birthday-cake
-  icon_pack: fas
-  name: BEEBI L 410€
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
