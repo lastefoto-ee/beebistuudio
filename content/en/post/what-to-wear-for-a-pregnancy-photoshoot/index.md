@@ -6,7 +6,7 @@ subtitle: Preparing for a pregnancy photoshoot
 summary: Preparing for a pregnancy photoshoot in the style of Vogue
 
 # Link this post with a project
-projects: 
+projects: [pregnancy]
 
 # Date published
 date: "2021-10-19T10:56:53+03:00"

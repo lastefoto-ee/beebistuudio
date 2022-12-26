@@ -1,12 +1,12 @@
 ---
 title: Fotopäev "Siluetid"
-subtitle: Lapseootuse pildistamise fotopäev
+subtitle: Beebiootuse pildistamise fotopäev
 
 # Summary for listings and search engines
-summary: Lapseootuse pildistamise fotopäev toimub 28. mail 2021 Tallinnas
+summary: Beebiootuse pildistamise fotopäev toimub 28. mail 2021 Tallinnas
 
 # Link this post with a project
-projects: [lapseootus]
+projects: [beebiootus]
 
 
 # Date published
@@ -41,45 +41,45 @@ tags:
   - fotopäev
 
 categories:
-  - lapseootus
+  - beebiootus
 
 gallery_item:
 - album: siluett
-  image: lapseootuse-sessioon-11.jpg
-  caption: Lapseootuse fotosessioon stuudios
+  image: beebiootuse-sessioon-11.jpg
+  caption: beebiootuse fotosessioon stuudios
 - album: siluett
-  image: lapseootuse-sessioon-12.jpg
-  caption: Lapseootuse fotosessioon Tallinnas
+  image: beebiootuse-sessioon-12.jpg
+  caption: beebiootuse fotosessioon Tallinnas
 - album: siluett
-  image: lapseootuse-sessioon-13.jpg
-  caption: Lapseootusefotosessioon Tallinna stuudios
+  image: beebiootuse-sessioon-13.jpg
+  caption: beebiootusefotosessioon Tallinna stuudios
 - album: siluett
-  image: lapseootuse-sessioon-14.jpg
-  caption: Lapseootuse fotosessioon Vogue stiilis
+  image: beebiootuse-sessioon-14.jpg
+  caption: beebiootuse fotosessioon Vogue stiilis
 - album: siluetid
-  image: lapseootuse-fotosessioon-10.jpg
-  caption: Lapseootuse fotosessioon Vogue stiilis
+  image: beebiootuse-fotosessioon-10.jpg
+  caption: beebiootuse fotosessioon Vogue stiilis
 - album: siluetid
-  image: lapseootuse-fotosessioon-5.jpg
-  caption: Lapseootuse fotosessioon Vogue stiilis
+  image: beebiootuse-fotosessioon-5.jpg
+  caption: beebiootuse fotosessioon Vogue stiilis
 - album: siluetid
-  image: lapseootuse-fotosessioon-4.jpg
-  caption: Lapseootuse fotosessioon Tallinnas
+  image: beebiootuse-fotosessioon-4.jpg
+  caption: beebiootuse fotosessioon Tallinnas
 - album: siluetid
-  image: lapseootuse-fotosessioon-3.jpg
-  caption: Lapseootuse pildistamine 
+  image: beebiootuse-fotosessioon-3.jpg
+  caption: beebiootuse pildistamine 
 - album: siluetid
-  image: lapseootuse-fotosessioon-7.jpg
+  image: beebiootuse-fotosessioon-7.jpg
   caption: Ootuse fotosessioon Tallinnas
 - album: siluetid
-  image: lapseootuse-fotosessioon-6.jpg
+  image: beebiootuse-fotosessioon-6.jpg
   caption: Ootuse pildistamine Vogue stiilis
 - album: siluetid
-  image: lapseootuse-fotosessioon-8.jpg
-  caption: Lapseootuse fotosessioon Tallinnas
+  image: beebiootuse-fotosessioon-8.jpg
+  caption: beebiootuse fotosessioon Tallinnas
 - album: siluetid
-  image: lapseootuse-fotosessioon-9.jpg
-  caption: Lapseootuse pildistamine stuudios Tallinnas
+  image: beebiootuse-fotosessioon-9.jpg
+  caption: beebiootuse pildistamine stuudios Tallinnas
 ---
 {{< cta cta_text="Registreeru fotopäevale" cta_link="/#contact" cta_new_tab="true" cta_alt_text="või saa lisateavet vastsündinud fotosessiooni kohta" cta_alt_link="/post/mida-kardavad-varsked-vanemad/" cta_alt_new_tab="false" >}}
 
@@ -137,4 +137,4 @@ _Üldiselt ärge mõelge kellaajale, vaid mõelge meeleolule ja nautige toimuvat
 
 {{< gallery album="siluett" >}}
 
-{{< cta cta_text="Registreeru lapseootuse fotopäevale" cta_link="/#contact" cta_new_tab="true" >}}
+{{< cta cta_text="Registreeru beebiootuse fotopäevale" cta_link="/#contact" cta_new_tab="true" >}}

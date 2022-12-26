@@ -25,12 +25,6 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: all
-    tag: "*"
-  - name: silhouette
-    tag: silhouette
-  - name: family
-    tag: family
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

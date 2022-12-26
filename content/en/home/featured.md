@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: My articles
-subtitle: "100% baby photo related"
+subtitle: "100% pregnancy photo related"
 
 content:
   # Page type to display. E.g. post, talk, publication...

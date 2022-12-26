@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Portfoolio
-subtitle: 'kõige ilusamad lapseootuse pildid'
+subtitle: 'ajatud ja kõige ilusamad pildid beebiootusest ja beebist'
 
 content:
   # Page type to display. E.g. project.
@@ -25,12 +25,6 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: kõik
-    tag: "*"   
-  - name: siluett
-    tag: siluett  
-  - name: pere
-    tag: pere  
 
 
 design:

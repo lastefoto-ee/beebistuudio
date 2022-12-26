@@ -36,6 +36,7 @@ tags:
   - pregnancy photo shoot
   - Vogue
   - silhouettes
+  - pregnancy
 
 categories:
 - pregnancy

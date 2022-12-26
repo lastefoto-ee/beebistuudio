@@ -6,7 +6,7 @@ subtitle: Photo day for pregnant ladies
 summary: Photo day for pregnant ladies will take place on May 28, 2021 in Tallinn
 
 # Link this post with a project
-projects: 
+projects: [pregnancy]
 
 # Date published
 date: "2021-10-19T10:58:53+03:00"
@@ -35,6 +35,7 @@ tags:
   - pregnancy photo shoot
   - Vogue
   - photo day
+  - pregnancy
 
 categories:
   - pregnancy
