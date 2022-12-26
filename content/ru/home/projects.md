@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Портфолио
+title: Портфолио и цены
 subtitle: 'вневременные и самые красивые фотографии беременности и новорожденных'
 
 content:
@@ -25,12 +25,6 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: все
-    tag: "*"
-  - name: силуэт
-    tag: силуэт
-  - name: семья
-    tag: семья
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

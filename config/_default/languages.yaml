@@ -37,12 +37,9 @@ ru:
       - name: Обо мне
         url: '#about'
         weight: 40
-      - name: Портфолио 
+      - name: Портфолио и цены
         url: '#projects'
         weight: 10
-      - name: Цены
-        url: '#skills'
-        weight: 20
       - name: Контакт
         url: '#contact'
         weight: 50
