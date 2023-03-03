@@ -26,9 +26,9 @@ et:
 ru:
   languageCode: ru
   contentDir: content/ru
-  title: Фотограф беременности
+  title: Фотостудия беременности
   params:
-    description: Фотограф беременности в Таллинне - Виктория Ильин
+    description: Фотостудия беременности и новорожденных в Таллинне - Виктория Ильин
   menu:  
     main:
       - name: Обо мне
@@ -46,9 +46,9 @@ ru:
 en:
   languageCode: en
   contentDir: content/en
-  title: Pregnancy photographer
+  title: Baby studio
   params:
-    description: Pregnancy photographer in Tallinn - Viktoria Iljin
+    description: Baby and maternity photo studio in Tallinn - Viktoria Iljin
   menu:
     main:
       - name: About me
